@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/CryptoRader/static/css/main.8494546b.css",
+    "main.js": "/CryptoRader/static/js/main.af93186e.js",
+    "static/media/About.jpeg": "/CryptoRader/static/media/About.131603245db591e8084b.jpeg",
+    "static/media/Home.jpeg": "/CryptoRader/static/media/Home.edf0780834e9426bf12c.jpeg",
+    "static/media/logo.jpeg": "/CryptoRader/static/media/logo.a30911fbbf0f68878731.jpeg",
+    "static/media/b3.jpeg": "/CryptoRader/static/media/b3.670c92b79a380af7c704.jpeg",
+    "index.html": "/CryptoRader/index.html",
+    "main.8494546b.css.map": "/CryptoRader/static/css/main.8494546b.css.map",
+    "main.af93186e.js.map": "/CryptoRader/static/js/main.af93186e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8494546b.css",
+    "static/js/main.af93186e.js"
+  ]
+}
